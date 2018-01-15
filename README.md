@@ -7,5 +7,7 @@
 ```bash
 git clone https://github.com/robot0nfire/c0re.git --recursive --depth=1
 cd c0re
-pip3 install -r requirements.txt
+
+pip3 install pipenv
+pipenv install
 ```
