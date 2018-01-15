@@ -1,0 +1,13 @@
+.DS_Store
+*.pyc
+__pycache__
+Testing
+*.cfg
+server.info
+server.cfg
+wallaby_testing*
+Binaries
+Source
+deleted*.db*
+.fl0w
+*.pickle

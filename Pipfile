@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+"highway.py" = "==0.2.2"
+Meh = "==1.2.1"
+bottle = "==0.12.13"
+
+[dev-packages]
