@@ -3,7 +3,7 @@ from threading import Lock
 from _thread import start_new_thread
 from os.path import exists
 from asyncio import sleep
-
+from ctypes import cdll
 
 from utils import is_wallaby
 
