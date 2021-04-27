@@ -7,6 +7,6 @@ name = "pypi"
 
 "highway.py" = "==0.2.2"
 Meh = "==1.2.1"
-bottle = "==0.12.13"
+bottle = "==0.12.19"
 
 [dev-packages]
